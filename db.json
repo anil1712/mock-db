@@ -1,11 +1,445 @@
 {
-    "posts": [
-      {
-        "id": 1,
-        "title": "hello"
-      }
+    "institute": [
+        {
+            "id": 1,
+            "is_active": false,
+            "name": "pCwlBJGGGx"
+        },
+        {
+            "id": 2,
+            "is_active": false,
+            "name": "UroCaEJLrH"
+        },
+        {
+            "id": 3,
+            "is_active": false,
+            "name": "ZanavpBXKN"
+        }
     ],
-    "profile": {
-      "name": "typicode"
-    }
-  }
+    "staff": [
+        {
+            "dob": "rAFBtqsaiA",
+            "first_name": "LWzVVkuGBw",
+            "id": 1,
+            "is_active": true,
+            "last_name": "MubaDztQMd",
+            "middle_name": "mpWFTKPxDV",
+            "phone": "xJUlqdxRXO",
+            "reg_date": "1952-07-01T00:57:33Z",
+            "reg_no": 83,
+            "sex": "nMBHZJixnG"
+        },
+        {
+            "dob": "fRrgWEsMLP",
+            "first_name": "MynyHibRet",
+            "id": 2,
+            "is_active": false,
+            "last_name": "BxLChgyuFp",
+            "middle_name": "CrqQkroiHq",
+            "phone": "AYNAwWOdDH",
+            "reg_date": "1919-03-29T12:32:40Z",
+            "reg_no": 99,
+            "sex": "EBzJEjlNaQ"
+        },
+        {
+            "dob": "vPoWejeKzB",
+            "first_name": "wUqiOupkaO",
+            "id": 3,
+            "is_active": false,
+            "last_name": "uqJsbvLLRp",
+            "middle_name": "hFzbvdTqlN",
+            "phone": "wJwUkRfbXr",
+            "reg_date": "1952-01-21T12:00:26Z",
+            "reg_no": 65,
+            "sex": "YMpTvNAaxv"
+        }
+    ],
+    "staffType": [
+        {
+            "id": 1,
+            "type": "WLyzjhNJGa",
+            "type_name": "UQFXHHufOR"
+        },
+        {
+            "id": 2,
+            "type": "zDRVnCUXYp",
+            "type_name": "BthhnqVjrF"
+        }
+    ],
+    "userType": [
+        {
+            "id": 1,
+            "type": "upZMlmAyPd",
+            "type_name": "MNudgamDtt"
+        },
+        {
+            "id": 2,
+            "type": "BHLczqoZTQ",
+            "type_name": "ZLBhqjwyxt"
+        }
+    ],
+    "student": [
+        {
+            "dob": "WqthGOwfrk",
+            "first_name": "pnAtTJRtCt",
+            "id": 1,
+            "is_active": true,
+            "last_name": "gNZTwkoHgT",
+            "middle_name": "ejIYkjbZMq",
+            "phone": "FzYPNGBRpT",
+            "reg_date": "1975-09-22T17:19:44Z",
+            "reg_no": 20,
+            "sex": "raMUjFqCeO"
+        },
+        {
+            "dob": "SllVzuhAvu",
+            "first_name": "ZVKeyWepVZ",
+            "id": 2,
+            "is_active": true,
+            "last_name": "VOSEjXBUco",
+            "middle_name": "atbipeZWpS",
+            "phone": "fWETiMmMTZ",
+            "reg_date": "1932-12-26T09:33:42Z",
+            "reg_no": 13,
+            "sex": "wZZNQEtajY"
+        },
+        {
+            "dob": "qptgAKyfzZ",
+            "first_name": "pGWkpOkzyD",
+            "id": 3,
+            "is_active": true,
+            "last_name": "lRmFGIbCVB",
+            "middle_name": "QAnNkliMuT",
+            "phone": "ONmsxODVvL",
+            "reg_date": "2020-12-18T19:29:56Z",
+            "reg_no": 59,
+            "sex": "wGeDlmTCVp"
+        },
+        {
+            "dob": "ARexVzOLeA",
+            "first_name": "eBUqXFJwtl",
+            "id": 4,
+            "is_active": true,
+            "last_name": "XjBBXtGOzu",
+            "middle_name": "DDHvbkwZgT",
+            "phone": "FuzqRXjqWL",
+            "reg_date": "1958-04-28T06:45:48Z",
+            "reg_no": 37,
+            "sex": "HOVIVyzjCN"
+        },
+        {
+            "dob": "jyggKcboTv",
+            "first_name": "VNVSuhoqNq",
+            "id": 5,
+            "is_active": false,
+            "last_name": "zlpWrGULVY",
+            "middle_name": "ATwtxTyZER",
+            "phone": "jZbLJBzeUI",
+            "reg_date": "1901-12-19T11:55:27Z",
+            "reg_no": 75,
+            "sex": "aVSsYoYTUE"
+        },
+        {
+            "dob": "xRYDzzSxoU",
+            "first_name": "wVDNaCaQeN",
+            "id": 6,
+            "is_active": true,
+            "last_name": "UKhuGRhybz",
+            "middle_name": "GGymDFCDot",
+            "phone": "qgwqIuJDKY",
+            "reg_date": "1952-01-07T19:45:12Z",
+            "reg_no": 48,
+            "sex": "ECIsUwvgzT"
+        },
+        {
+            "dob": "WCrsFOErIS",
+            "first_name": "uMlAlGEjar",
+            "id": 7,
+            "is_active": false,
+            "last_name": "VeaaZTaPGT",
+            "middle_name": "dKaIzELEOL",
+            "phone": "FFgilOUjSZ",
+            "reg_date": "1956-03-11T00:55:49Z",
+            "reg_no": 61,
+            "sex": "jSGeVMOlZk"
+        },
+        {
+            "dob": "zgoFLMLOMM",
+            "first_name": "LYicyBQACn",
+            "id": 8,
+            "is_active": false,
+            "last_name": "sbkDlBDBJN",
+            "middle_name": "ZFHmUGIGxx",
+            "phone": "yWzYYwvnOm",
+            "reg_date": "1939-12-05T18:43:51Z",
+            "reg_no": 18,
+            "sex": "jbOtwlvbNg"
+        },
+        {
+            "dob": "HlAGTUOOgG",
+            "first_name": "LJwWQTTVzE",
+            "id": 9,
+            "is_active": true,
+            "last_name": "HSGKKlTUfq",
+            "middle_name": "yRWfqQWogv",
+            "phone": "rFngDigwuD",
+            "reg_date": "1902-09-04T03:10:25Z",
+            "reg_no": 34,
+            "sex": "MSSDwnGGJA"
+        },
+        {
+            "dob": "IOJVuOormi",
+            "first_name": "TsvIRjrsof",
+            "id": 10,
+            "is_active": false,
+            "last_name": "UmnyQlKCmM",
+            "middle_name": "QZhFhsmykb",
+            "phone": "PLQzOpuxmr",
+            "reg_date": "1919-02-01T10:32:31Z",
+            "reg_no": 80,
+            "sex": "LWecJbMGSc"
+        },
+        {
+            "dob": "CqlItSMxsa",
+            "first_name": "cZZVCoXMyR",
+            "id": 11,
+            "is_active": true,
+            "last_name": "SvjeSxcjpq",
+            "middle_name": "ymcVOrrWsN",
+            "phone": "aZmDEIjvDd",
+            "reg_date": "1994-12-11T03:39:50Z",
+            "reg_no": 51,
+            "sex": "oRVocFFndu"
+        },
+        {
+            "dob": "BjaWwUSenA",
+            "first_name": "zdNUaxUFeA",
+            "id": 12,
+            "is_active": true,
+            "last_name": "ZyUMbcEZgI",
+            "middle_name": "fDynUpYRrP",
+            "phone": "CalRhJoigL",
+            "reg_date": "1983-12-07T14:41:56Z",
+            "reg_no": 20,
+            "sex": "MljozWQsDW"
+        },
+        {
+            "dob": "AUVWSchPGn",
+            "first_name": "WmSsXEeUad",
+            "id": 13,
+            "is_active": true,
+            "last_name": "bzpnnShhUo",
+            "middle_name": "quEvLndVBf",
+            "phone": "MblAvzkqxG",
+            "reg_date": "1903-01-05T09:28:24Z",
+            "reg_no": 82,
+            "sex": "gmcVBocogT"
+        },
+        {
+            "dob": "ZbKhABFgEq",
+            "first_name": "efEPNZxuPZ",
+            "id": 14,
+            "is_active": true,
+            "last_name": "JywCswoWsS",
+            "middle_name": "WecgjiwrVt",
+            "phone": "KgNzHxLfHt",
+            "reg_date": "1998-02-28T05:08:48Z",
+            "reg_no": 64,
+            "sex": "ESffbpiHJy"
+        },
+        {
+            "dob": "pemPBJUnuK",
+            "first_name": "HLBSAxkVqP",
+            "id": 15,
+            "is_active": true,
+            "last_name": "skipsKmZjx",
+            "middle_name": "YITKUhYGnp",
+            "phone": "FLJIhAAcvl",
+            "reg_date": "1969-01-12T22:16:05Z",
+            "reg_no": 57,
+            "sex": "WxcjgtHDRv"
+        },
+        {
+            "dob": "TRNsoYveUW",
+            "first_name": "BrbglJKbdH",
+            "id": 16,
+            "is_active": false,
+            "last_name": "UQLPHSBfou",
+            "middle_name": "ssEBZbThfu",
+            "phone": "iuufFAHRaR",
+            "reg_date": "1987-01-04T19:18:58Z",
+            "reg_no": 42,
+            "sex": "KfLhRkrEBC"
+        },
+        {
+            "dob": "ODSCvAXyrT",
+            "first_name": "KttPBNmohd",
+            "id": 17,
+            "is_active": false,
+            "last_name": "tFhGcWDCEi",
+            "middle_name": "ndixzYRgFW",
+            "phone": "CfFtSzWKEm",
+            "reg_date": "1908-06-01T13:38:06Z",
+            "reg_no": 38,
+            "sex": "dfZbgrxOSN"
+        },
+        {
+            "dob": "bNtEHOEOFV",
+            "first_name": "gPLGDdpeUM",
+            "id": 18,
+            "is_active": true,
+            "last_name": "oOIQbgqMmy",
+            "middle_name": "nkbxVGbIaO",
+            "phone": "dDznGTjeRY",
+            "reg_date": "2004-08-02T01:17:12Z",
+            "reg_no": 50,
+            "sex": "qkNnNzHucl"
+        },
+        {
+            "dob": "ZGMXhNzoXF",
+            "first_name": "olqAJbOSSo",
+            "id": 19,
+            "is_active": false,
+            "last_name": "xDdCHOzgVl",
+            "middle_name": "ViqekuwiAY",
+            "phone": "ZJTgNwgovW",
+            "reg_date": "1926-04-13T15:27:01Z",
+            "reg_no": 52,
+            "sex": "kEJhbogyYS"
+        },
+        {
+            "dob": "DtgiGfxXik",
+            "first_name": "oLZHESdKpp",
+            "id": 20,
+            "is_active": false,
+            "last_name": "AGfsLNguBk",
+            "middle_name": "WDdVqzOloz",
+            "phone": "GQePSsDNCd",
+            "reg_date": "1925-12-16T11:05:15Z",
+            "reg_no": 55,
+            "sex": "NbGyDXCbDO"
+        }
+    ],
+    "class": [
+        {
+            "class_name": "YIzXAkBjgJ",
+            "id": 1,
+            "is_active": false
+        },
+        {
+            "class_name": "YsqRwgphUa",
+            "id": 2,
+            "is_active": false
+        },
+        {
+            "class_name": "SBmVmtIleV",
+            "id": 3,
+            "is_active": false
+        },
+        {
+            "class_name": "ujYvGWQeRx",
+            "id": 4,
+            "is_active": true
+        },
+        {
+            "class_name": "vvqSyVprKK",
+            "id": 5,
+            "is_active": true
+        },
+        {
+            "class_name": "YguGowhTxQ",
+            "id": 6,
+            "is_active": true
+        },
+        {
+            "class_name": "sVJxTctzCO",
+            "id": 7,
+            "is_active": false
+        }
+    ],
+    "classSection": [
+        {
+            "__section": "zwvtbmaRBL",
+            "grade": "AWEIVQDLjy",
+            "id": 1,
+            "is_active": true
+        },
+        {
+            "__section": "JXCuJLTHpq",
+            "grade": "KOXdvbmkEq",
+            "id": 2,
+            "is_active": true
+        },
+        {
+            "__section": "fOVRRQPehn",
+            "grade": "ekiBPEzPSB",
+            "id": 3,
+            "is_active": false
+        },
+        {
+            "__section": "OsmJYlYzLX",
+            "grade": "SUnLzROjSl",
+            "id": 4,
+            "is_active": true
+        },
+        {
+            "__section": "ttHtnfYbMv",
+            "grade": "WAOnVvpaEc",
+            "id": 5,
+            "is_active": true
+        }
+    ],
+    "subject": [
+        {
+            "id": 1,
+            "is_active": true,
+            "name": "SdYioPYEph"
+        },
+        {
+            "id": 2,
+            "is_active": false,
+            "name": "sKlJEFRqkv"
+        },
+        {
+            "id": 3,
+            "is_active": true,
+            "name": "hsOEnHKoLy"
+        },
+        {
+            "id": 4,
+            "is_active": false,
+            "name": "sQiuaYDalw"
+        },
+        {
+            "id": 5,
+            "is_active": false,
+            "name": "tkdhVdMXpL"
+        },
+        {
+            "id": 6,
+            "is_active": true,
+            "name": "HpbfJmpFtk"
+        },
+        {
+            "id": 7,
+            "is_active": false,
+            "name": "APCJlJJMiY"
+        },
+        {
+            "id": 8,
+            "is_active": true,
+            "name": "LldytVVCoz"
+        },
+        {
+            "id": 9,
+            "is_active": false,
+            "name": "EetmHisHyD"
+        },
+        {
+            "id": 10,
+            "is_active": false,
+            "name": "gJnUonxJSU"
+        }
+    ],
+    "chapter": []
+}
